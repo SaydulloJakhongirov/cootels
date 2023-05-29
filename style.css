@@ -1,0 +1,132 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.container {
+    max-width: 1140px;
+    margin: auto;
+}
+
+a {
+    list-style: none;
+    text-decoration: none;
+}
+
+.cootels {
+    margin: 50px;
+    color: #192252;
+}
+
+.head {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -70px;
+    gap: 30px;
+}
+
+.red {
+    color: black;
+}
+
+.header-btn {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: -30px;
+}
+
+.btn {
+    padding: 10px 20px;
+    background-color: blacK;
+    color: #ffffff;
+    border-radius: 4px;
+}
+
+.Beauty {
+    margin-left: 50px;
+}
+
+.space {
+    position: relative;
+    top: -30px;
+    font-family: 'Montserrat';
+    font-size: 48px;
+    max-width: 587.49px;
+    color: #192252;
+    margin-top: -50px;
+}
+
+.anytime {
+    max-width: 485.4px;
+    font-family: 'Inter';
+    font-size: 18px;
+    color: #848FAC;
+}
+
+.paragraph {
+    padding-top: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.hero-btn {
+    margin-top: 30px;
+}
+
+.img {
+    width: 588.49px;
+}
+
+.contact-img {
+    margin-top: 80px;
+    margin-left: 50px;
+}
+
+.Norway {
+    font-family: 'Montserrat';
+    color: #192252;
+    font-size: 36px;
+    max-width: 600px;
+}
+
+.Hotel {
+    font-family: 'Inter';
+    font-size: 18px;
+    color: #848FAC;
+    max-width: 584px;
+}
+
+.img-section{
+    width: 384px;
+    margin-top: -100px;
+}
+
+.stress{
+    margin-top: 150px;
+}
+
+.many{
+    text-align: center;
+    margin-top: 100px;
+}
+
+.Rooms{
+    font-size: 36px;
+    color: #192252;
+    font-family: 'Montserrat';
+}
+
+.until{
+    color: #848FAC;
+    font-size: 18px;
+    font-family: 'Inter';
+}
+
+.kirana{
+    display: block;
+    margin-top: 24px;
+    color: #192252;
+}
